@@ -16,8 +16,11 @@ Sou estudante de Cibersegurança (nível 5 - CET), com experiência anterior em 
 
 ---
 
-[https://github.com/carmanoli/Wargaming/blob/main/wargaming.png](https://github.com/carmanoli/Wargaming/blob/main/CET93_Carlos%2C%20Erni%2C%20Hugo_Projeto_9197.pdf)
-
+<p align="center">
+  <a href="https://github.com/carmanoli/Wargaming/blob/main/CET93_Carlos%2C%20Erni%2C%20Hugo_Projeto_9197.pdf">
+    <img src="https://github.com/carmanoli/Wargaming/raw/main/wargaming.png" alt="Projeto Wargaming" width="25%">
+  </a>
+</p>
 
 
 ## 📫 Contacto
