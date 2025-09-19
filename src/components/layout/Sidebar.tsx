@@ -1,7 +1,5 @@
-import { Home, FolderGit2, User } from "lucide-react";
-
 import { Link } from 'react-router-dom';
-import { Code, Bot, Microscope, Wrench } from "lucide-react"
+import { Code, Wrench } from "lucide-react"
 
 export function Sidebar() {
   return (
