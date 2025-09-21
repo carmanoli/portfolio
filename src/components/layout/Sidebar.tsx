@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Code, Wrench } from "lucide-react"
+import { Code, Wrench, Lock, Network  } from "lucide-react"
 
 export function Sidebar() {
   return (
@@ -29,12 +29,18 @@ export function Sidebar() {
   to="/projects/Network" 
   className="flex items-center px-2 py-2 rounded-lg text-muted-foreground hover:bg-muted hover:text-foreground"
 >
-  <Wrench className="w-5 h-5 mr-2" />
+  <Network  className="w-5 h-5 mr-2" />
   <span>Network</span>
 </Link>
 
 
-
+<Link 
+  to="/projects/Cybersecurity" 
+  className="flex items-center px-2 py-2 rounded-lg text-muted-foreground hover:bg-muted hover:text-foreground"
+>
+  <Lock className="w-5 h-5 mr-2" />
+  <span>Cybersecurity</span>
+</Link>
 
       </nav>
     </aside>
